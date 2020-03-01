@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robowerkchatbot-lrpldu",
+  "private_key_id": "cbe32d987ad4264935fcb01c27354e767302178c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDcu9dZPE+O7cHF\nBY501i28DRWuFNUHXBrAAY+y78bTx44fAiNFigYK8wi4K0hk/W0RnhJ1ysW/2wgf\nMI6GHahqkTmTWr/B0Dr3zpouxjz0/7BQj4VfEczSIBq1VT3JgiIZ+D4v5/DnDe2w\n7mqDMCzdeSPetJTUZY3mcdVdqqjvNU7TUVY7P+CgtKlLs/ewOo1sdmrOYUXRV520\n6qirwibGTDclWIAC8ZeOTdAiVZ+bV2QDKmJxmmO4Tn9UsSg/1ysHwzh/qVu2lYVZ\nkF0xounN9xvP9rMbj7+LHHl3r6Yp7CHpHhLOnqoYX+s0latM+ob569zjltnWCIxu\n966H9mE5AgMBAAECggEAaF1uIBSKf0c+D1Qlu2tK+3dqUUErSgwL3829Ljr9lMNt\nGI8vsyDj44hujnl0hL9oMuS80LHblu9OY0TXlmTubNiWUuwc71vvjZxDPStgxewg\n5q49PqqRX6ZrSmJv0Nd1HTdI2+i799sXj8jiVn3QMLUmtxVFqzkLAzK+UcevkU2P\nUKVV1kOqKaa0d7OhJHUb5SZfran2rcjtcfU3dN9EnZQGrd9dikmOBPECI+Q6Ufmb\nUDy0AoJEZyvuzKqEeLLd5tccQ/OAlsyEu2RJnH5A05KwVrSC7X6aSQNO+1+3umOD\ntU4987Jq1wt9af5wxykraz8LNac44/fKG6p5nUvq2wKBgQD+tBgLSHAj6rUaPlcT\nG4eoqFiIBFm8dRU1HQ2pu+RkLy+tvD9/n93/f+kPk+RwY9ik8VEHGz6cXIDN/sxF\nuWxVNtM4PvxilwPCgeIXqMY7KGxirB77tev1RkIZ4368uJ0oRmoDd2Q2WigQzl5z\nsvecyMA7ZSzqS0Ikh3R3uQvsuwKBgQDd23sml5tZvesNaCZDkY+5lZjkHWerqjYh\nPPmyk+yrG5cWj9chyrKZei3aTgGiO+UhecW5nAKi2c/Mt833Q6GiTZCIUD4Y3+Ec\nJ+wHC5M2digw85ZnGQZoQojr8nelu7gjFOirBiUz7AjdgXwI2zVvKPvCTamM1qPw\nBhvjJf9kmwKBgCQQ3Fa8qyRq17ofmbTa8Rqwu9iGxS4qZhZfRtACCxUkmVvAjD1G\nJelH83iBOJexi7vPb+nRscvyTUreCY7V8sEeQkp0oMhVGfMw8RLokylNUAuo07pQ\nyFiy2ilQTWHrwlUxo1FaVpZbrdCzaCx56xYIVzAR44pJndQOWi+ZxFaBAoGBANBT\nnNysWDB46hN4zRV9xhxaoWrzQbos5w9nFoHd7cru6X1CLJ2KnRMJa60mutoArDQ3\nCLg2CzOonDx8DGg3lbu2YhXeY7Ev6U5rHnOvJtlpMmxlD8JX+XBFqhUFZdy23T30\nEFcoOh77cYeuYy5dyVtMfLwD+UZK9z4YPm+Z6qwpAoGBAIF1TCTaF+HcDrpu6fD6\nxX+9Ewy50d1AYkvb5Kb6+kivhuMcAM4BWrWaOwEVymxaXDHRbXn29bpIiZpc/EDP\njcs3qqDNtvKEjVau0tHCYZ4uzTYHXPwm3mb5dT55+BtPyAHbpC7SZHeXhv6HdDCR\nDgGnC1T20g/QOhNoNRoLGIiT\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-kqrbes@robowerkchatbot-lrpldu.iam.gserviceaccount.com",
+  "client_id": "107586114016764719648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-kqrbes%40robowerkchatbot-lrpldu.iam.gserviceaccount.com"
+}
